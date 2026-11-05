@@ -1,0 +1,4 @@
+TrimmomaticPE: Started with arguments:
+ -threads 4 -phred33 data/sample_R1.fastq data/sample_R2.fastq trimmed/R1_paired.fastq trimmed/R1_unpaired.fastq trimmed/R2_paired.fastq trimmed/R2_unpaired.fastq LEADING:20 TRAILING:20 SLIDINGWINDOW:4:20 MINLEN:50
+Input Read Pairs: 460000 Both Surviving: 460000 (100,00%) Forward Only Surviving: 0 (0,00%) Reverse Only Surviving: 0 (0,00%) Dropped: 0 (0,00%)
+TrimmomaticPE: Completed successfully

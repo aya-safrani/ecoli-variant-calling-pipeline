@@ -1,0 +1,10 @@
+diploid | vérité hom : 1331 retrouvés sur 1335
+diploid | vérité het : 2639 retrouvés sur 2672
+diploid | vérité all : 3970 retrouvés sur 4007
+diploid | SNPs appelés = 3970 ; vrais = 3970 ; faux positifs = 0
+
+haploid | vérité hom : 1331 retrouvés sur 1335
+haploid | vérité het : 397 retrouvés sur 2672
+haploid | vérité all : 1728 retrouvés sur 4007
+haploid | SNPs appelés = 1728 ; vrais = 1728 ; faux positifs = 0
+

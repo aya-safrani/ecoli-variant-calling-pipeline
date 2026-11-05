@@ -1,0 +1,13 @@
+Avant filtrage : 4695
+Après filtrage : 4682
+SN	0	number of samples:	1
+SN	0	number of records:	4682
+SN	0	number of no-ALTs:	0
+SN	0	number of SNPs:	3970
+SN	0	number of MNPs:	0
+SN	0	number of indels:	712
+SN	0	number of others:	0
+SN	0	number of multiallelic sites:	0
+SN	0	number of multiallelic SNP sites:	0
+Haploïde brut    : 2795
+Haploïde filtré  : 2322

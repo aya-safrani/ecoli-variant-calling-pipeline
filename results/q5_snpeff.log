@@ -1,0 +1,66 @@
+00:00:00 SnpEff version SnpEff 5.4c (build 2026-02-23 07:25), by Pablo Cingolani
+00:00:00 Command: 'ann'
+00:00:00 Reading configuration file 'snpEff.config'. Genome: 'Escherichia_coli_str_k_12_substr_mg1655_gca_000005845'
+00:00:00 Looking for config file: '/home/aya-safrani/tp_genomique/snpEff.config'
+00:00:00 Reading config file: /home/aya-safrani/anaconda3/envs/tp_genomique/share/snpeff-5.4.0c-0/snpEff.config
+00:00:00 done
+00:00:00 Reading database for genome version 'Escherichia_coli_str_k_12_substr_mg1655_gca_000005845' from file '/home/aya-safrani/anaconda3/envs/tp_genomique/share/snpeff-5.4.0c-0/./data/Escherichia_coli_str_k_12_substr_mg1655_gca_000005845/snpEffectPredictor.bin' (this might take a while)
+00:00:00 done
+00:00:00 Loading Motifs and PWMs
+00:00:00 Building interval forest
+00:00:01 done.
+00:00:01 Genome stats :
+#-----------------------------------------------
+# Genome name                : 'Escherichia_coli_str_k_12_substr_mg1655_gca_000005845'
+# Genome version             : 'Escherichia_coli_str_k_12_substr_mg1655_gca_000005845'
+# Genome ID                  : 'Escherichia_coli_str_k_12_substr_mg1655_gca_000005845[0]'
+# Has protein coding info    : true
+# Has Tr. Support Level info : true
+# Genes                      : 4534
+# Protein coding genes       : 4323
+#-----------------------------------------------
+# Transcripts                : 4536
+# Avg. transcripts per gene  : 1,00
+# TSL transcripts            : 0
+#-----------------------------------------------
+# Checked transcripts        : 
+#               AA sequences :   4239 ( 98,01% )
+#              DNA sequences :   4357 ( 96,05% )
+#-----------------------------------------------
+# Protein coding transcripts : 4325
+#              Length errors :     72 ( 1,66% )
+#  STOP codons in CDS errors :     13 ( 0,30% )
+#         START codon errors :    417 ( 9,64% )
+#        STOP codon warnings :     14 ( 0,32% )
+#              UTR sequences :      0 ( 0,00% )
+#               Total Errors :    417 ( 9,64% )
+# WARNING                    : No protein coding transcript has UTR
+#-----------------------------------------------
+# Cds                        : 4242
+# Exons                      : 4558
+# Exons with sequence        : 4558
+# Exons without sequence     : 0
+# Avg. exons per transcript  : 1,00
+#-----------------------------------------------
+# Number of chromosomes      : 1
+# Chromosomes                : Format 'chromo_name size codon_table'
+#		'Chromosome'	4641652	Standard
+#-----------------------------------------------
+
+00:00:01 Predicting variants
+00:00:01 Loading sequences for chromosome 'Chromosome' from file '/home/aya-safrani/anaconda3/envs/tp_genomique/share/snpeff-5.4.0c-0/./data/Escherichia_coli_str_k_12_substr_mg1655_gca_000005845/sequence.Chromosome.bin'
+00:00:01 Building sequence tree for chromosome 'Chromosome'
+00:00:01 Done. Loaded 3741 sequences.
+
+WARNINGS: Some warning were detected
+Warning type	Number of warnings
+INFO_REALIGN_3_PRIME	1
+WARNING_TRANSCRIPT_INCOMPLETE	676
+WARNING_TRANSCRIPT_MULTIPLE_STOP_CODONS	133
+WARNING_TRANSCRIPT_NO_START_CODON	3849
+
+
+00:00:02 Creating summary file: annotation/snpEff_summary.html
+00:00:02 Creating genes file: annotation/snpEff_summary.genes.txt
+00:00:02 done.
+00:00:02 Done.

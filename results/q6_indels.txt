@@ -1,0 +1,6 @@
+Tolérance ±1 pb
+  indels simulés retrouvés : 591 sur 719
+  indels appelés justes    : 591 sur 712
+Tolérance ±5 pb
+  indels simulés retrouvés : 712 sur 719
+  indels appelés justes    : 712 sur 712

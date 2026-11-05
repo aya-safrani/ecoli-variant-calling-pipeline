@@ -1,0 +1,28 @@
+=== sample_R1 ===
+>>Basic Statistics	pass
+Total Sequences	460000
+Sequence length	150
+%GC	50
+>>Per base sequence quality	pass
+>>Per sequence quality scores	pass
+>>Per base sequence content	pass
+>>Per sequence GC content	warn
+>>Per base N content	pass
+>>Sequence Length Distribution	pass
+>>Sequence Duplication Levels	pass
+>>Overrepresented sequences	pass
+>>Adapter Content	pass
+=== sample_R2 ===
+>>Basic Statistics	pass
+Total Sequences	460000
+Sequence length	150
+%GC	50
+>>Per base sequence quality	pass
+>>Per sequence quality scores	pass
+>>Per base sequence content	pass
+>>Per sequence GC content	warn
+>>Per base N content	pass
+>>Sequence Length Distribution	pass
+>>Sequence Duplication Levels	pass
+>>Overrepresented sequences	pass
+>>Adapter Content	pass
